@@ -14,7 +14,7 @@ The base station is used to set the boundary of the zone and to relay LoRa notif
 
 The out of zone detection pipeline detects the presence of an animal, classifies its species, tracks it, and compares its present location to the zone’s mask. The animal classification stage is optional and is utilized by users who want to detect unwanted animals.
 
-| Stage  | Methods |
+| Stages  | Methods |
 | ------------- | ------------- |
 | Animal Detection | Microsoft [CameraTrap](https://github.com/microsoft/CameraTraps) Project |
 | Animal Classification | [ResNetST-101](https://modelplace.ai/models/15) |
