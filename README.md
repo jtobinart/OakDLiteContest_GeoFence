@@ -14,8 +14,12 @@ The base station is used to set the boundary of the zone and to relay LoRa notif
 
 The out of zone detection pipeline detects the presence of an animal, classifies its species, tracks it, and compares its present location to the zone’s mask. The animal classification stage is optional and is utilized by users who want to detect unwanted animals.
 
-
-This is a higher-level library to allow Adafruit's [CLUE](https://www.adafruit.com/product/4500) and ElecFreak's micro:bit Smart [Cutebot](https://www.elecfreaks.com/micro-bit-smart-cutebot.html) to communicate while maintaining all the functionality of the CLUE, except for touch features. In version 2, the code has been updated for efficency purposes and educational focus has shifted towards examples and wiki.
+| Stage  | Methods |
+| ------------- | ------------- |
+| Animal Detection | Microsoft [CameraTrap](https://github.com/microsoft/CameraTraps) Project |
+| Animal Classification | [ResNetST-101](https://modelplace.ai/models/15) |
+| ID Tracking | Centroid-Tracking |
+| Out of Zone Detection | Bit-wise Comparison |
 
 ## License
 The code of the repository is made available under the terms of the MIT license. See license.md for more information.
