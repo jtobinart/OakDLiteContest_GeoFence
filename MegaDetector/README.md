@@ -23,7 +23,7 @@ I have converted the Tensorflow frozen file into an Intermediate Representation 
 | IR_tf_1.0 | Error | Starts then fails: ImangeManip Error - image size bigger than expected |
 | IR_tf_1.7 | Error | Starts then fails: ImangeManip Error - image size bigger than expected |
 | IR_tf_1.10 | Error | Starts then fails: ImangeManip Error - image size bigger than expected |
-| IR_tf_1.13 | Not Tested |  |
-| IR_tf_1.14 | Not Tested |  |
-| IR_tf_1.15 | Not Tested |  |
-| IR_tf_2.0 | Not Tested |  |
+| IR_tf_1.13 | Incompatible |  |
+| IR_tf_1.14 | Incompatible |  |
+| IR_tf_1.15 | Incompatible |  |
+| IR_tf_2.0 | Incompatible |  |
