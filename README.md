@@ -2,7 +2,7 @@
 ![Image of the autonomous system output with boundary boxes around perimeter and animals.](https://github.com/jisforjt/OakDLiteContest_GeoFence/blob/main/images/readme/pets.jpg?raw=true)
 #### Team: SoFlo Primary Key
 #### Project Name: Livestock and Pet Geofencing: An autonomous system that monitors animals within a zone.
-This is a working repository for the [OpenCV Spacial AI Contest](https://opencv.org/opencv-spatial-ai-contest/). We are finalists and we will be updating code periodically as we progress through the competition as we approach the contest submission deadline on April 1st, 2022. We will be using the [OAK-D-Lite](https://docs.luxonis.com/projects/hardware/en/latest/pages/DM9095.html) and [LEGO Mindstorms Robot Inventor](https://www.lego.com/en-us/product/robot-inventor-51515).
+This is a working repository for the [OpenCV Spatial AI Contest](https://opencv.org/opencv-spatial-ai-contest/). We are finalists and we will be updating code periodically as we progress through the competition as we approach the contest submission deadline on April 1st, 2022. We will be using the [OAK-D-Lite](https://docs.luxonis.com/projects/hardware/en/latest/pages/DM9095.html) and [LEGO Mindstorms Robot Inventor](https://www.lego.com/en-us/product/robot-inventor-51515).
 
 ## Problem Statement
 Monitoring livestock and pets within a zone can be a struggle. Traditional fences can be broken while leaving the owner unaware that their animals are loose. Loose animals can lead to property damage, loss of the animal, panic, and heartbreak. We propose an autonomous system that can monitor animals and send notifications when animals have crossed a boundary line of a predetermined zone.
